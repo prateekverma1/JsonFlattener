@@ -1,4 +1,4 @@
-# JsonFlattenerMDB
+# JsonFlattener
 * Takes the json input as command line and returns the flatened json
 
 * Code is available here: MongoDBJsonParser/src/main/java/com/flatten/json/
