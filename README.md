@@ -6,7 +6,7 @@
 * Test files are available here: test_files/
 
 * Screen shot of the sample input and output is in the file screenshot_output.PNG
-* ![sample output](screenshot_output.png)
+* ![sample output](./screenshot_output.png)
 
 * To run the program follow the instructions below:
 
