@@ -5,8 +5,8 @@
 
 * Test files are available here: test_files/
 
-* Screen shot of the sample input and output is in the file screenshot_output.PNG
-* ![sample output](./screenshot_output.PNG)
+* Screen shot of the sample input and output is attached below:
+  ![sample output](./screenshot_output.PNG)
 
 * To run the program follow the instructions below:
 
